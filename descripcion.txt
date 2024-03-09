@@ -1,0 +1,5 @@
+Investigación PROSNI "Aula Invertida"
+
+Investigación realizada utilizando análisis de datos, basados en los resultados de una encuesta a estudiantes universitarios, sobre las ventajas del uso del método “Aula Invertida” como una alternativa para la implementación en el aula estudiantil.
+
+Herramientas: Python, Matlab, Formularios de Google y Excel
